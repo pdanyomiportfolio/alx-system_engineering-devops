@@ -4,3 +4,4 @@ Tasks 2. script that changes the working directory to the user’s home director
 Tasks 3. Display current directory contents in a long format
 Tasks 4. Display current directory contents, including hidden files (starting with .). Use the long format.
 Tasks 5. Display current directory contents. Long format, with user and group IDs displayed numerically, and hidden files
+Tasks 6. Create a script that creates a directory named 'my first directory' in the /tmp/ directory
